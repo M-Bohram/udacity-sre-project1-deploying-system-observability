@@ -1,3 +1,7 @@
-# Purpose of this Folder
+# Deploying System Observability
 
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
+This project is the first project of the SRE Nanodegree in Udacity.
+
+The deliverables are mainly the ```sre-assessment-template-observing-cloud-resources.docx``` file and screenshots folder for more screenshots.
+
+For more information about the project specification, please check [rubric](https://review.udacity.com/#!/rubrics/3567/view)
